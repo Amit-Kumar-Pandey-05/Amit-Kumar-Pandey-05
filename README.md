@@ -23,9 +23,9 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/twitter-circled.png" alt="Amit-Kumar-Pandey-05" height="40" width="40" /></a>
-<a href="https://linkedin.com/in" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/linkedin-circled.png" alt="Amit-Kumar-Pandey-05" height="40" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/facebook-new.png" alt="Amit-Kumar-Pandey-05" height="40" width="40" /></a>
+<a href="https://twitter.com/MrPande27810951" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/twitter-circled.png" alt="MrPande27810951" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/chini0507" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/linkedin-circled.png" alt="Amit-Kumar-Pandey-05" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100081892569970" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/facebook-new.png" alt="Amit-Kumar-Pandey-05" height="40" width="40" /></a>
 <a href="https://instagram.com/pandit_0507" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/instagram-new--v2.png" alt="pandit_0507" height="40" width="40" /></a>
 </p>
 </div>
